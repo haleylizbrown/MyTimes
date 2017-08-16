@@ -1,0 +1,94 @@
+.header {
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  justify-content: space-between;
+  color: MediumAquamarine;
+  padding-bottom: 1em;
+}
+
+.logo {
+  display: flex;
+  flex-grow: 2;
+  align-items: center;
+  padding-left: 1em;
+  border: thin solid black;
+}
+
+.logo span {
+  padding-left: 1em;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav a {
+  padding-right: 2em;
+}
+
+.main {
+  border: thin solid black;
+  display: flex;
+  padding-top: 2em;
+  justify-content: space-between;
+}
+
+.large {
+  border: thin solid black;
+  display: flex;
+  flex-direction: column;
+  width: 630px;
+}
+
+.main-title {
+  border: thin solid black;
+}
+
+.main-body {
+  border: thin solid black;
+}
+
+.orca {
+  border: thin solid black;
+}
+
+.earth {
+  border: thin solid black;
+}
+
+.burger {
+  border: thin solid black;
+}
+
+.research {
+  border: thin solid black;
+}
+
+.medium {
+  border: thin solid black;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.FBI {
+    border: thin solid black;
+  }
+
+.cats-heading {
+    border: thin solid black;
+  }
+
+.cats-body {
+    border: thin solid black;
+  }
+
+.small {
+  border: thin solid black;
+  display: flex;
+  flex-direction: column;
+  width: 240px;
+  }
